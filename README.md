@@ -1,8 +1,8 @@
 ### Hi there 👋, I´m Carlos Mafra
 
-- 🔭I'm currently working as a fullsatck developer
-- 🌱 I’m currently learning ReactNative
-- 📫 contact me by email: carlosmafraneto@outlook.com
+- 🔭I'm tech recruiter
+- CEO at Newtoo Incubadora de empresas ltda
+- 📫 contact me by email: carlosmafra@newtoo.com.br
 
 <div>
   <a href="https://github.com/CarlosMafraNeto">
