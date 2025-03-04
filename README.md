@@ -1,7 +1,6 @@
 ### Hi there 👋, I´m Carlos Mafra
 
 - 🔭I'm tech recruiter
-- CEO at Newtoo Incubadora de empresas ltda
 - 📫 contact me by email: carlosmafra@newtoo.com.br
 
 <div>
